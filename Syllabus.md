@@ -10,7 +10,7 @@ In this course you will learn to program by writing your own creative software. 
 ## Objectives	
 * Gain the ability to write computer code
 * Be able to express artistic and creative ideas using code 
-* Learn core programming structures and syntax for writing javascript
+* Learn core programming structures and syntax for writing java and javascript
 * Practice using the p5.js library and writing algorithms to achieve end goals
 * Engage in self-learning and creative problem solving
 * Learn the basics of HTML and CSS and be able to create webpages showcasing your projects
