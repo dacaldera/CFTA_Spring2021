@@ -43,9 +43,9 @@ Webcam, microphone, and audio for participating in virtual lectures
 ## Grading
 * Presentation: 10% 
 * In-class exercises: 20%
-* Homework Assignments: 30%
-* Projects: 40%
-* Final Project : 50%
+* Homework Assignments: 20%
+* Projects: 25%
+* Final Project : 25%
 
 ## Attendance
 * 2 unexcused absences = 1 full letter drop of final grade
