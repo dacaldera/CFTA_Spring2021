@@ -34,7 +34,7 @@
 ## 1.3
 * Variables and types
 * Width and height
-* mouseX and mouseY
+* mouseX and mouseY, pmouseX, pmouseY
 * mouse and keyboard events
 * writing to the console using print and println
 > ## Assignments
@@ -47,9 +47,37 @@
 * Booleans
 * Logic operators
 * Conditionals (if/else if/ else)
+* || &&
 * incrementing variables over time within the draw function
-> ## Assignments
+> ## Assignments:
+> Recreate the classic "mystify" screensaver but with your own twist. [See it in action here](https://www.youtube.com/watch?v=FPfMkEgi2qI)
 >
+>Reading Assignment TBD
+
+## 1.5
+* Focusing on color in depth
+* opacity
+* hex values
+* hsb vs rgba
+* map function
+* frameRate, frameCount
+* Introduce project 1
+> ## Assignments:
+> Brainstorm and sketch out an idea for project 1
+> 
+> Reading Assignment TBD
+
+
+# Module 2
+## 2.1
+* Transformations
+* PushMatrix, popMatrix
+* For loops
+* Migrating to p5.js
+
+.... The rest is coming soon
+
+
 
 
 
