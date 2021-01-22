@@ -18,7 +18,5 @@ Please bookmark this page and check back for updates.
 
 ## The book for this course is
 > Make: Getting Started with p5.js
->
 > Authors: Lauren McCarthy, Ben Fry, Casey Reas
-
-* There is a pdf version of the book available here: [Make: Getting started with p5.js](http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf)
+> There is a pdf version of the book available here: [Make: Getting started with p5.js](http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf)
