@@ -21,7 +21,7 @@
 > 
 > Try to recreate this painting by British artist Damien Hirst: [Mickey](http://www.damienhirst.com/mickey) (hint: consider the shape of your canvas) 
 > 
-> ** Are you up for a challenge? If so, then try to recreate [THIS](https://www.theparisreview.org/blog/wp-content/uploads/2018/10/hilma_af_klint_svanen.jpg) painting by Swedish female artist Hilma Af Klint, and you can learn more about her contribution to abstraction in this article from [The Paris Review](https://www.theparisreview.org/blog/wp-content/uploads/2018/10/hilma_af_klint_svanen.jpg) 
+> ** Are you up for a challenge? If so, then try to recreate [THIS](https://www.theparisreview.org/blog/wp-content/uploads/2018/10/hilma_af_klint_svanen.jpg) painting by Swedish female artist Hilma Af Klint, and you can learn more about her contribution to abstraction in this article from [The Paris Review](https://www.theparisreview.org/blog/wp-content/uploads/2018/10/hilma_af_klint_svanen.jpg) (hint: have a look at the reference page for the [arc()](https://processing.org/reference/arc_.html) command)
 >
 > Read Chapter 1 and 2 from Daniel Shiffmans book "Learning Processing, a beginner's guide" available [HERE](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Chapter_1_and_2_Learning_Processing_bay_Daniel_Shiffman.pdf);
 
