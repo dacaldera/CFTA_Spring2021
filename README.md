@@ -18,5 +18,14 @@ Please bookmark this page and check back for updates.
 
 ## The book for this course is
 > Make: Getting Started with p5.js
+> 
 > Authors: Lauren McCarthy, Ben Fry, Casey Reas
+> 
 > There is a pdf version of the book available here: [Make: Getting started with p5.js](http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf)
+
+## Another book that we will be reading from is:
+> Learning Processing: A beginner's guide to programming images, animations, and interaction
+>
+> Author: Daniel Shiffman
+> 
+> The pdf for this reading is located here: [Learning Processing](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Chapter_1_and_2_Learning_Processing_bay_Daniel_Shiffman.pdf)
