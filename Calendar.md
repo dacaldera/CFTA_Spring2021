@@ -19,7 +19,7 @@
 > ## Assignments:
 > Select a painting by [this artist](https://www.google.com/search?q=mondrian&tbm=isch&chips=q:mondrian,g_1:art:RCyBiMoxD-g%3D&hl=en&sa=X&ved=2ahUKEwiIgaSKzanuAhWKY60KHXFPB9EQ4lYoAHoECAEQGQ&biw=1392&bih=725) and recreate it using shapes, line and/or color commands.
 > 
-> Try to recreate this painting by British artist Damien Hirst: [Mickey](http://www.damienhirst.com/mickey)
+> Try to recreate this painting by British artist Damien Hirst: [Mickey](http://www.damienhirst.com/mickey) (hint: consider the shape of your canvas) 
 > 
 > Read Chapter 1 and 2 from Daniel Shiffmans book "Learning Processing, a beginner's guide" available [HERE](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Chapter_1_and_2_Learning_Processing_bay_Daniel_Shiffman.pdf);
 
