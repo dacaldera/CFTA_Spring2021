@@ -26,6 +26,7 @@
 > Read Chapter 1 and 2 from Daniel Shiffmans book "Learning Processing, a beginner's guide" available [HERE](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Readings/Learning_Processing_by_Daniel_Shiffman.pdf);
 
 ## 1.2
+* Width and Height
 * Radians vs degrees, arcs, PI
 * Curves
 > ## Assignments:
@@ -37,7 +38,6 @@
 
 ## 1.3
 * Variables and types
-* Width and height
 * mouseX and mouseY, pmouseX, pmouseY
 * mouse and keyboard events
 * writing to the console using print and println
