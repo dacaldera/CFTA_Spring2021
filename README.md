@@ -28,4 +28,4 @@ Please bookmark this page and check back for updates.
 >
 > Author: Daniel Shiffman
 > 
-> The pdf for this reading is located here: [Learning Processing](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Chapter_1_and_2_Learning_Processing_bay_Daniel_Shiffman.pdf)
+> The pdf for this reading is located here: [Learning Processing](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Readings/Learning_Processing_by_Daniel_Shiffman.pdf)
