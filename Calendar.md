@@ -10,7 +10,7 @@
 > Read this article -> [A Modern Prometheus](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85)
 
 # Module 1
-## 1.1
+## [1.1](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/1_1.md)
 * Coordinate system
 * Simple shapes
 * Greyscale and Color
@@ -25,7 +25,7 @@
 >
 > Read Chapter 1 and 2 from Daniel Shiffmans book "Learning Processing, a beginner's guide" available [HERE](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Readings/Learning_Processing_by_Daniel_Shiffman.pdf);
 
-## 1.2
+## [1.2](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/1_2.md)
 * Radians vs degrees, arcs, PI
 * Curves - everything you ever wanted to know about them can be read [HERE](https://processing.org/tutorials/curves/)
 * Built-in Variables
@@ -45,7 +45,7 @@
 >
 
 
-## 1.3
+## [1.3](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/1_3.md)
 * Variables and types
 * mouseX and mouseY, pmouseX, pmouseY
 * mouse and keyboard events
