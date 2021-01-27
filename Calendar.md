@@ -33,11 +33,17 @@
 > ## Assignments:
 > Choose one of these to recreate: easy: [Smiley](https://www.google.com/search?q=90%27s+smiley&hl=en&sxsrf=ALeKk004_aV8J0w9Lg6KTb-a01KB8tb0aw:1611115594978&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjY6eul0anuAhWFU80KHX0OBxkQ_AUoAXoECBcQAw&biw=1392&bih=725), medium: [Yin Yang](https://www.google.com/search?q=Yin+Yang&tbm=isch&ved=2ahUKEwj1xdGC0qnuAhUWhqwKHbfqDLgQ2-cCegQIABAA&oq=Yin+Yang&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIKCAAQsQMQgwEQQzIICAAQsQMQgwEyBQgAELEDMgcIABCxAxBDMgcIABCxAxBDOgQIIxAnOgIIAFCbqgFYm7UBYNu5AWgAcAB4AIABaIgB8wWSAQM2LjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Da0HYLWLI5aMsgW31bPACw&bih=725&biw=1392&hl=en), hard: [Peace Sign](https://www.google.com/search?q=peace+sign&tbm=isch&ved=2ahUKEwjI0O3_0anuAhUKb60KHY3tDckQ2-cCegQIABAA&oq=peace+sign&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIFCAAQsQMyBQgAELEDMgIIADIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgcIABCxAxBDUIciWIciYIUkaABwAHgAgAFgiAFgkgEBMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=B60HYIixLYretQWN27fIDA&bih=725&biw=1392&hl=en)
 > 
+>void setup(){  } //I only run once at the start of the sketch
+>
+>void draw(){  } //I run repeatedly in a loop forever
+>
+>You may create your homework assignments using the code structure or not this, the choice is yours. We will be using the code structure moving forward for the rest of the semester.
+>
 > Create a self portrait using geometric shapes, lines, curves, arcs, colors, fill and stroke, and anything else that we have learned so far. Here is inspiration to get you going but note that you are not limited to only using curves: [Example 1](http://blog.ocad.ca/wordpress/gart1b70-fw201203-01/files/2013/01/selfportrait-processing.png), [Example 2](http://blog.ocad.ca/wordpress/gart1b70-fw201203-01/2013/01/processing-self-portrait-emma-burkeitt/), [Example 3](https://enginayaz.files.wordpress.com/2011/09/portrait.jpg)
 >
 >And some famous line drawing portraits [Matisse line drawings](https://www.google.com/search?q=henri+matisse+woman+face+line+drawing&tbm=isch&ved=2ahUKEwiJs4ix1qnuAhUPE6wKHYY9C4gQ2-cCegQIABAA&oq=henri+matisse+woman+face+line+drawing&gs_lcp=CgNpbWcQAzIECCMQJ1CkF1ibGGCwGmgAcAB4AIABY4gBwgGSAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=oLEHYInjKY-msAWG-6zACA&bih=725&biw=1392&hl=en), [Lennon self portrait](https://www.google.com/search?q=john+lennon+self+portrait+-h&tbm=isch&ved=2ahUKEwjAlar-trvuAhUVFqwKHcSyAXMQ2-cCegQIABAA&oq=john+lennon+self+portrait+-h&gs_lcp=CgNpbWcQA1DZJljZJmDoKmgAcAB4AIABRogBRpIBATGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=oAARYMDFBJWssAXE5YaYBw&bih=725&biw=1392)
 >
-> Read Chapter 3 from Daniel Shiffmans book "Learning Processing, a beginner's guide"
+
 
 ## 1.3
 * Variables and types
