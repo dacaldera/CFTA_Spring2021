@@ -37,7 +37,7 @@
 >
 >void draw(){  } //I run repeatedly in a loop forever
 >
->You may create your homework assignments using the code structure or not this, the choice is yours. We will be using the code structure moving forward for the rest of the semester.
+>You may create your homework assignments using the code structure or not, the choice is yours. We will be using the code structure moving forward for the rest of the semester.
 >
 > Create a self portrait using geometric shapes, lines, curves, arcs, colors, fill and stroke, and anything else that we have learned so far. Here is inspiration to get you going but note that you are not limited to only using curves: [Example 1](http://blog.ocad.ca/wordpress/gart1b70-fw201203-01/files/2013/01/selfportrait-processing.png), [Example 2](http://blog.ocad.ca/wordpress/gart1b70-fw201203-01/2013/01/processing-self-portrait-emma-burkeitt/), [Example 3](https://enginayaz.files.wordpress.com/2011/09/portrait.jpg)
 >
