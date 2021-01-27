@@ -27,7 +27,7 @@
 
 ## 1.2
 * Radians vs degrees, arcs, PI
-* Curves
+* Curves - everythiong you ever wanted to know about them can be read [HERE](https://processing.org/tutorials/curves/)
 * Built-in Variables
 * The basic setup() and draw() structure
 > ## Assignments:
