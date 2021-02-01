@@ -8,9 +8,9 @@ Please bookmark this page and check back for updates.
 
 ## Our meetings will be on Microsoft Teams
 
-* You should have this software [Processing](www.processing.org) installed on your computer
+* You should have this software [Processing](http://www.processing.org) installed on your computer
 
-* Use this site [Open Processing](www.openprocessing.org) to submit assignments
+* Use this site [Open Processing](http://www.openprocessing.org) to submit assignments
 
 * a P5Live link will be shared each class period [P5Live](https://teddavis.org/p5live/)
 
