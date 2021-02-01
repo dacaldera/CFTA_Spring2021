@@ -51,8 +51,12 @@
 * mouse and keyboard events
 * writing to the console using print and println
 > ## Assignments
-> Create a set of eyes that respond to the mouse position, mouse click event, and keyboard event. something as simple as this -> [cartoon eyes](https://www.google.com/search?q=cartoon+eyes+clipart&tbm=isch&ved=2ahUKEwiV7Kup3qnuAhUb_qwKHaOeCQEQ2-cCegQIABAA&oq=cartoon+eyes+clipart&gs_lcp=CgNpbWcQAzIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgYIABAFEB4yBggAEAUQHjoHCAAQsQMQQzoECAAQQ1CdNFimPWD2PWgAcAB4AIABZIgBtQSSAQM2LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=87kHYNWmO5v8swWjvaYI&bih=725&biw=1392) 
-> 
+> Choose one sketch from last week to modify (smiley, yin yang, peace sign). Follow the prompts below:
+> 1 Declare a set of integer variables for size, and modify your code so that your graphic's size is adjustable
+> 2 Similarly use the mouseX and mouseY variables, and modify your code so that your graphic's position follows the mouse
+> 3 Cut and paste your graphic's code into the *void mouseClicked(){  }* callback function, turning it into a stamp. Your graphic should stamp onto the canvas everytime the mouse is clicked.
+> 4 Alter the size variables from step one using the *void keyPressed(){  }* callback function. If any key on the keyboard is pressed, the size increases by 1
+
 > Watch this lecture/talk by Zach Lieberman: [Youtube link here](https://www.youtube.com/watch?v=bmztlO9_Wvo)
 
 ## 1.4
