@@ -14,7 +14,7 @@ Please bookmark this page and check back for updates.
 
 * a P5Live link will be shared each class period [P5Live](https://teddavis.org/p5live/)
 
-* For any whiteboard that we might need, we can use [ZiteBoard](https://app.ziteboard.com/)
+* For any whiteboard that we might need, we can use [Aggie.io](https://aggie.io/)
 
 ## The book for this course is
 > Make: Getting Started with p5.js
