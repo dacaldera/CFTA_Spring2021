@@ -52,15 +52,15 @@
 * writing to the console using print and println
 > ## Assignments
 >
-> Choose one sketch from last week to modify (smiley, yin yang, peace sign). Follow the prompts below:
+> Create a bullseye/target graphic like we did in class and follow the prompts below:
 >
-> * Declare a set of integer variables for size, and modify your code so that your graphic's size is adjustable
+> * Declare a set of integer variables for sizing, and modify your code to include the variables so that your graphic's size is adjustable. note: declare the variables at the top of your sketch, assign your variables' values in the setup(){  } function
 >
-> * Similarly use the mouseX and mouseY variables, and modify your code so that your graphic's position follows the mouse
+> * Similarly use the mouseX and mouseY variables and modify your code to include them so that your graphic's position follows the mouse. note: you will be *rewriting* your positioning values relative to the mouse cursor (ex line(mouseX-50,mouseY-20, mouseX+60, mouseY+25); )
 >
-> * Cut and paste your graphic's code into the *void mouseClicked(){  }* callback function, turning it into a stamp. Your graphic should stamp onto the canvas everytime the mouse is clicked.
+> * Cut and paste your graphic's code into the *void mouseClicked(){  }* callback function, turning it into a stamp. Your graphic should stamp onto the canvas everytime the mouse is clicked. note: explore what happens when you play your sketch with and without the background() command which is located in the draw(){  } function. 
 >
-> * Alter the size variables from step one using the *void keyPressed(){  }* callback function. If any key on the keyboard is pressed, the size increases by 1
+> * Alter the size variables from step one using the *void keyPressed(){  }* callback function. If any key on the keyboard is pressed, the size increases by 1. note: how does stroke() adapt to these size changes?  
 >
 > Watch this lecture/talk by Zach Lieberman: [Youtube link here](https://www.youtube.com/watch?v=bmztlO9_Wvo)
 
