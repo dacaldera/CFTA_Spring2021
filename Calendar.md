@@ -53,6 +53,19 @@
 > ## Assignments
 >
 > Create a bullseye/target graphic like we did in class and follow the prompts below:
+```
+Example bullseye/target sketch
+
+void setup(){
+  size(600,600);
+}
+
+void draw(){
+ ellipse(width/2, height/2, 90,90);
+ ellipse(width/2, height/2, 60,60);
+ ellipse(width/2, height/2, 30,30);
+}
+```
 >
 > * Declare a set of integer variables for sizing, and modify your code to include the variables so that your graphic's size is adjustable. note: declare the variables at the top of your sketch, assign your variables' values in the setup(){  } function
 >
