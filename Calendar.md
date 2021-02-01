@@ -54,13 +54,13 @@
 >
 > Choose one sketch from last week to modify (smiley, yin yang, peace sign). Follow the prompts below:
 >
-> 1 Declare a set of integer variables for size, and modify your code so that your graphic's size is adjustable
+> * Declare a set of integer variables for size, and modify your code so that your graphic's size is adjustable
 >
-> 2 Similarly use the mouseX and mouseY variables, and modify your code so that your graphic's position follows the mouse
+> * Similarly use the mouseX and mouseY variables, and modify your code so that your graphic's position follows the mouse
 >
-> 3 Cut and paste your graphic's code into the *void mouseClicked(){  }* callback function, turning it into a stamp. Your graphic should stamp onto the canvas everytime the mouse is clicked.
+> * Cut and paste your graphic's code into the *void mouseClicked(){  }* callback function, turning it into a stamp. Your graphic should stamp onto the canvas everytime the mouse is clicked.
 >
-> 4 Alter the size variables from step one using the *void keyPressed(){  }* callback function. If any key on the keyboard is pressed, the size increases by 1
+> * Alter the size variables from step one using the *void keyPressed(){  }* callback function. If any key on the keyboard is pressed, the size increases by 1
 >
 > Watch this lecture/talk by Zach Lieberman: [Youtube link here](https://www.youtube.com/watch?v=bmztlO9_Wvo)
 
