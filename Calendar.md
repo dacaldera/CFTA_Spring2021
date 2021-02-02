@@ -77,7 +77,7 @@ void draw(){
 >
 > Watch this lecture/talk by Zach Lieberman: [Youtube link here](https://www.youtube.com/watch?v=bmztlO9_Wvo)
 
-## 1.4
+## [1.4](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/1_4.md)
 * math with integers and floats
 * Booleans
 * Logic operators
