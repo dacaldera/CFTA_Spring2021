@@ -80,14 +80,14 @@ void draw(){
 ## [1.4](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/1_4.md)
 * math with integers and floats
 * Booleans
-* Logic operators
-* Conditionals (if/else if/ else)
+* Comparison operators
+* Conditional logic (if/else if/ else)
 * || &&
 * incrementing variables over time within the draw function
 > ## Assignments:
-> Recreate the classic "mystify" screensaver but with your own twist. [See it in action here](https://www.youtube.com/watch?v=FPfMkEgi2qI)
+> TBA
 >
->Reading Assignment TBD
+> Reading Assignment TBD
 
 ## 1.5
 * Focusing on color in depth
