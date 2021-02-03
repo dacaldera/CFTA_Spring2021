@@ -91,6 +91,10 @@ void draw(){
 >
 > When the mouse is clicked, something interesting happens
 >
+>[HELPER VIDEO TUTORIAL #1](https://www.youtube.com/watch?v=U5cOB3KgFWQ)
+>
+>[HELPER VIDEO TUTORIAL #2](https://www.youtube.com/watch?v=YIKRXl3wH8Y)
+>
 > Read this article [This one](https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24)
 
 ## 1.5
