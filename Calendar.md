@@ -91,7 +91,7 @@ void draw(){
 >
 > When the mouse is clicked, something interesting happens
 >
-> Reading Assignment TBD
+> Read this article [This one](https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24)
 
 ## 1.5
 * Focusing on color in depth
