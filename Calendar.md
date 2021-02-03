@@ -85,7 +85,11 @@ void draw(){
 * || &&
 * incrementing variables over time within the draw function
 > ## Assignments:
-> TBA
+> Create a bouncing ball sketch. The ball must bounce around inside of the canvas but not leave the canvas. There are many creative ways to do this. 
+>
+> When the ball hits a wall, the ball should change direction
+>
+> When the mouse is clicked, something interesting happens
 >
 > Reading Assignment TBD
 
