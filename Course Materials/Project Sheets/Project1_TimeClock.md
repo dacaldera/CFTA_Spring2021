@@ -7,13 +7,14 @@
 ## Create a sketch that functions like a clock that visualizes the passing of time. 
 * The clock need not be round like a real clock, but can be abstract.  
 * The sketch should use the time functions that are available in Java and Processing.
+
 ## Time Functions: 
-* second(), 
-* minute(), 
-* hour(), 
-* day(), 
-* month(), 
-* year()
+* second() [reference](https://processing.org/reference/second_.html) 
+* minute() [reference](https://processing.org/reference/minute_.html)
+* hour() [reference](https://processing.org/reference/hour_.html)
+* day() [reference](https://processing.org/reference/day_.html)
+* month() [reference](https://processing.org/reference/month_.html)
+* year() [reference](https://processing.org/reference/year_.html)
 
 ## The Clock should: 
 * inlcude movement, color, and or line that changes with each passing second
