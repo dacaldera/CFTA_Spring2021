@@ -97,6 +97,10 @@ void draw(){
 >
 > Read this article [This one](https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24)
 
+## 1.41 Review
+* we will spend the day reviewing topics that we have covered so far
+* Now is the time to catch up if you are behind
+
 ## 1.5
 * Focusing on color in depth
 * opacity
