@@ -100,17 +100,30 @@ void draw(){
 ## 1.41 Review
 * we will spend the day reviewing topics that we have covered so far
 * Now is the time to catch up if you are behind
+* introduce map function
+* Introduce project 1
 
 ## 1.5
-* Focusing on color in depth
-* opacity
-* hex values
-* hsb vs rgba
+* More about Color
+* blend modes
+* Alpah (Opacity)
+* colorMode() HSB & RGB
 * map function
-* frameRate, frameCount
-* Introduce project 1
+* More If Statement practice
+
 > ## Assignments:
-> Brainstorm and sketch out an idea for project 1
+>
+> * Create a simplified character using shapes and lines and color.
+>
+> * Next, Follow these 3 tutorial videos to add movement to your character by using the arrow keys on the keyboard. 
+>
+> * * [Tutorial Part 1](https://www.youtube.com/watch?v=77L0eaBgaiI&list=PLlulQ8ha7kMNE2yMWRsIGCdMcbGlVJ_-N&index=3)
+>
+> * * [Tutorial Part 2](https://www.youtube.com/watch?v=TrKFvrNTSNA&list=PLlulQ8ha7kMNE2yMWRsIGCdMcbGlVJ_-N&index=4)
+> 
+> * * [Tutorial Part 3](https://www.youtube.com/watch?v=uTw48yJ6aP8&list=PLlulQ8ha7kMNE2yMWRsIGCdMcbGlVJ_-N&index=5)
+>
+> * Finally, incorporate some of what we learned about color today into the sketch.
 > 
 > Reading Assignment TBD
 
