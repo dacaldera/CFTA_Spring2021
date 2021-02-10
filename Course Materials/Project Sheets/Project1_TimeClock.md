@@ -21,4 +21,38 @@
 * use conditional if() statements to do something interesting at a particular time
 * use any topic that we have covered already in class, such as lines, shapes, curves, fill color, etc.
 
+-----------------
 
+## code ideas for inspiration
+* Check out this text based approach to a clock. How might you build off of this idea?
+```
+void setup() {
+  size(500, 100);
+}
+
+void draw() {
+  background(0);
+  textSize(48);
+
+  if (hour() < 5) {
+    //between midnight and 5AM
+    text("Go to sleep!", 20, height-20);
+  } 
+  else if (hour() < 12) {
+    //between 5AM and noon
+    text("Good morning!", 20, height-20);
+  } 
+  else if (hour() < 16) {
+    //between noon and 4PM
+    text("Good afternoon!", 20, height-20);
+  } 
+  else if (hour() < 21) {
+    //between 4PM and 9PM
+    text("Good evening!", 20, height-20);
+  } 
+  else {
+    //between 9PM and midnight
+    text("Good night!", 20, height-20);
+  }
+}
+```
