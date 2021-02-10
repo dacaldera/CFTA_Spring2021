@@ -108,7 +108,7 @@ void draw(){
 * blend modes
 * Alpah (Opacity)
 * colorMode() HSB & RGB
-* map function
+* map function review
 * More If Statement practice
 
 > ## Assignments:
