@@ -13,6 +13,7 @@
 * [Generative Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
 * [The Machine as Seen at the
 End of the Mechanical Age](https://www.moma.org/calendar/exhibitions/2776)
+* [Cybernetic Serendipity](https://www.historyofinformation.com/detail.php?id=863)
 
 ## Artists to explore
 ### Pioneers
@@ -33,3 +34,8 @@ End of the Mechanical Age](https://www.moma.org/calendar/exhibitions/2776)
 * Casey Reas - co-creator of processing [Super Mosaic](https://www.seditionart.com/magazine/casey-reas-super-mosaic)
 * Jared Tarbell [interview](https://www.artnome.com/news/2020/8/24/interview-with-generative-artist-jared-tarbell)
 * Ben Fry - visualizong large data sets - co-creator of processing [All Streets](https://benfry.com/allstreets/map5.html)
+
+## Good Videos to watch
+
+* [Sound artwork at Cybernetic Serendipity](https://www.youtube.com/watch?v=N-PuBciISkU)
+* [Cybernetic Serndipity Walkthrough](https://www.youtube.com/watch?v=oSwovB28B34)
