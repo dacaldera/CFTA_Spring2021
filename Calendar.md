@@ -130,6 +130,18 @@ void draw(){
 
 # Module 2
 ## 2.1
+* Byte-sized history
+* case-study: generating a digital collage
+* PImage - loading images and data folder structure
+* toggling a boolean variable
+* Arrays[]
+* more if-statement practice
+
+> ## Assignment:
+>
+> * Assignment: Pick one of the three code sketches that we coverend in class, dig some pictures up from the internet and plug them into the sketch, and explore.
+
+## 2.2
 * Transformations
 * PushMatrix, popMatrix
 * For loops
