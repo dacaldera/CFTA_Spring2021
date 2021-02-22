@@ -103,7 +103,7 @@ void draw(){
 * introduce map function
 * Introduce project 1
 
-## 1.5
+## [1.5](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/1_5.md)
 * More about Color
 * blend modes
 * Alpah (Opacity)
