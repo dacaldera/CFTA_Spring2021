@@ -143,9 +143,11 @@ void draw(){
 
 ## 2.2
 * Transformations
+* rotations
 * PushMatrix, popMatrix
 * For loops
-* Migrating to p5.js
+
+
 
 .... The rest is coming soon
 
