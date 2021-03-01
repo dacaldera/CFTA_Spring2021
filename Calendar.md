@@ -147,6 +147,12 @@ void draw(){
 * PushMatrix, popMatrix
 * For loops
 
+## 2.3
+* More for loop practice
+* while loops
+* PushMatrix, popMatrix and transformations practice
+
+
 
 
 .... The rest is coming soon
