@@ -19,6 +19,7 @@
 ## The Clock should: 
 * inlcude movement, color, and or line that changes with each passing second
 * use conditional if() statements to do something interesting at a particular time
+* and a for() loop
 * use any topic that we have covered already in class, such as lines, shapes, curves, fill color, etc.
 
 -----------------
