@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 - Due Monday March 8th
 ## Theme: Time Clock
 
 
