@@ -152,7 +152,11 @@ void draw(){
 * while loops
 * PushMatrix, popMatrix and transformations practice
 
-
+## 2.4 
+* While() loops
+* functions
+* custom functions
+* GUI buttons
 
 
 .... The rest is coming soon
