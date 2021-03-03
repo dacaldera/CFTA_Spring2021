@@ -130,7 +130,7 @@ void draw(){
 
 # Module 2
 ## 2.1
-* Byte-sized history
+* Byte-sized histories
 * case-study: generating a digital collage
 * PImage - loading images and data folder structure
 * toggling a boolean variable
@@ -154,11 +154,13 @@ void draw(){
 
 ## 2.4 
 * While() loops
-* functions
+* nested for loops
+
+## 2.5
 * custom functions
 * GUI buttons
 
-
+# Module 3
 .... The rest is coming soon
 
 
