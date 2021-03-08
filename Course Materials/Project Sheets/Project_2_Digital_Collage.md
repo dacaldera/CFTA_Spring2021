@@ -11,7 +11,7 @@
 # Drawing Order
 * Looking at your sketch, determine the order in which things will be drawn to the screen. Fore xample, the background would be drawn first so maybe the background goes at the top of the list, etc. So yur drawing list might look somethign like this:
 >1. Background
->2. grid of orange cat images
+>2. grid of texture images
 >3. yarn ball that bounces around the screen
 >4. rotating white cat in the center
 >5. the word "meow" flashing in the center of the screen
@@ -24,7 +24,7 @@ void setup(){
 void draw(){
   // draw the background first
 
-  //Draw the grid of orange cats next
+  //Draw the grid of texture next
 
   //Yarn ball goes here
 
@@ -47,51 +47,51 @@ void draw(){
   
   ...
 ```
-# Add Code ...orange_cat
-* Once the previous element is working as planned, move onto the next item on the list. Think about what code to add to make the  element work as planned. For the enxt item `//Draw the grid of orange cats next` we will need a variable to hold the cat image, and we will need a nested for loop to create the image grid:
+# Add Code ...texture
+* Once the previous element is working as planned, move onto the next item on the list. Think about what code to add to make the  element work as planned. For the enxt item `//Draw the grid of texture next` we will need a variable to hold the cat image, and we will need a nested for loop to create the image grid:
 ```
-//Draw the grid of orange cats next
+//Draw the grid of texture next
   // need a PImage varaible for the cat picture
   
   //Use a for loop to draw the image grid
 
 ```
-# Add Code ...orange_cat
-* Lets look at this one in more detail. We need a PImage, so lets go ahead and declare it at the top of the sketch `PImage orange_cat;`. then we will need to load the image within the setup function like this ``orange_cat = loadImage("orange_cat.png");` So far our sketch looks like this: 
+# Add Code ...texture
+* Lets look at this one in more detail. We need a PImage, so lets go ahead and declare it at the top of the sketch `PImage texture;`. then we will need to load the image within the setup function like this ``texture = loadImage("texture.png");` So far our sketch looks like this: 
 ```
-PImage orange_cat;
+PImage texture;
 
 void setup(){
   size(600,600);
-  orange_cat = loadImage("orange_cat.png");
+  texture = loadImage("texture.png");
 } 
 
 void draw(){
   // draw the background first
   background(255,200,200);  //ok, this one was easy
   
-  //Draw the grid of orange cats next
+  //Draw the grid of texture next
     // need a PImage varaible for the cat picture - done!
   
     //Use a for loop to draw the image grid
 
 ...
 ```
-# Add Code ...orange_cat
+# Add Code ...texture
 * Now lets figure out the for loop part. To make a grid of images, we will need a nested for loop. The variables within the for loops will detrmine the number of rows and columns of the grid, therefore those numbers will need to be tweaked to get it to look any particular way. Press play and tweak the code until it looks the way needed
 ```
-PImage orange_cat;
+PImage texture;
 
 void setup(){
   size(600,600);
-  orange_cat = loadImage("orange_cat.png");
+  texture = loadImage("texture.png");
 } 
 
 void draw(){
   // draw the background first
   background(255,200,200);  //ok, this one was easy
   
-  //Draw the grid of orange cats next
+  //Draw the grid of texture next
     // need a PImage varaible for the cat picture - done!
   
     //Use a for loop to draw the image grid
@@ -100,7 +100,7 @@ void draw(){
       //the inner for loop repeats each cat picture across the width of the canvas
       for(int i=0; i<width; i+=50){
         // draw the picture here at position i, and j, with picture size 10 wide and 10 high
-        image(orange_cat, i, j, 50, 50);
+        image(texture, i, j, 50, 50);
       
       }
     
