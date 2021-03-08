@@ -4,9 +4,12 @@
 
 ## The idea with this project is to put our coding skills to creative use. Ask yourself: How can I use creative coding to make something that unique and expressive, and individually *me*? 
 
-## Guide Suggestion: 
-* **Plan** - Sketch out an idea with pencil and paper. Label out the parts of the sketch, such as colors, rotations, repetitions, movement, etc. The more planning the better
-* **Drawing Order** - Looking at your sketch, determine the order in which things will be drawn to the screen. Fore xample, the background would be drawn first so maybe the background goes at the top of the list, etc. So yur drawing list might look somethign like this:
+## Guide: 
+#Plan
+* Sketch out an idea with pencil and paper. Label out the parts of the sketch, such as colors, rotations, repetitions, movement, etc. The more planning the better
+
+# Drawing Order
+* Looking at your sketch, determine the order in which things will be drawn to the screen. Fore xample, the background would be drawn first so maybe the background goes at the top of the list, etc. So yur drawing list might look somethign like this:
 >1. Background
 >2. grid of orange cat images
 >3. yarn ball that bounces around the screen
@@ -31,8 +34,8 @@ void draw(){
 
 }
 ```
-* **
-* **Add Code** - Looking at your list, think about what code to add to make the first element work as planned. Use comments to flesh-it-out in more detail if needed. What type of code could make this element work? type in the code and hit the play button to check if it works, tweak the code and hit play again, and keep doing this until it looks the way you want it to look. Lets do the first one:
+# Add Code
+* Looking at your list, think about what code to add to make the first element work as planned. Use comments to flesh-it-out in more detail if needed. What type of code could make this element work? type in the code and hit the play button to check if it works, tweak the code and hit play again, and keep doing this until it looks the way you want it to look. Lets do the first one:
 ```
 void setup(){
   size(600,600);
@@ -42,9 +45,10 @@ void draw(){
   // draw the background first
   background(255,200,200);  //ok, this one was easy
   
-...
+  ...
 ```
-* **Add Code ...orange_cat** - Once the previous element is working as planned, move onto the next item on the list. Think about what code to add to make the  element work as planned. For the enxt item `//Draw the grid of orange cats next` we will need a variable to hold the cat image, and we will need a nested for loop to create the image grid:
+# Add Code ...orange_cat
+* Once the previous element is working as planned, move onto the next item on the list. Think about what code to add to make the  element work as planned. For the enxt item `//Draw the grid of orange cats next` we will need a variable to hold the cat image, and we will need a nested for loop to create the image grid:
 ```
 //Draw the grid of orange cats next
   // need a PImage varaible for the cat picture
@@ -52,7 +56,8 @@ void draw(){
   //Use a for loop to draw the image grid
 
 ```
-* **Add Code ...orange_cat** - Lets look at this one in more detail. We need a PImage, so lets go ahead and declare it at the top of the sketch `PImage orange_cat;`. then we will need to load the image within the setup function like this ``orange_cat = loadImage("orange_cat.png");` So far our sketch looks like this: 
+# Add Code ...orange_cat
+* Lets look at this one in more detail. We need a PImage, so lets go ahead and declare it at the top of the sketch `PImage orange_cat;`. then we will need to load the image within the setup function like this ``orange_cat = loadImage("orange_cat.png");` So far our sketch looks like this: 
 ```
 PImage orange_cat;
 
@@ -72,7 +77,8 @@ void draw(){
 
 ...
 ```
-* **Add Code ...orange_cat** - Now lets figure out the for loop part. To make a grid of images, we will need a nested for loop. The variables within the for loops will detrmine the number of rows and columns of the grid, therefore those numbers will need to be tweaked to get it to look any particular way. Press play and tweak the code until it looks the way needed
+# Add Code ...orange_cat
+* Now lets figure out the for loop part. To make a grid of images, we will need a nested for loop. The variables within the for loops will detrmine the number of rows and columns of the grid, therefore those numbers will need to be tweaked to get it to look any particular way. Press play and tweak the code until it looks the way needed
 ```
 PImage orange_cat;
 
