@@ -160,8 +160,23 @@ void draw(){
 * custom functions
 * GUI buttons
 
+
+***
+
+## Project 2 Collage
+> Homework for Collage Project
+> 
+> Make a sketch of a collage idea. You many use pencil and paper, or you may use photoshop. 
+>
+> Label the sketch with information about what each element will be doing in the collage. 
+> 
+> Collect the digital assets that you will be using in your collage. Open a new blank processing sketch. Save it to give it a name, and add the data folder to the project directory. Then place your digital assets inside the data folder. 
+> 
+
+
+
 # Module 3
-.... The rest is coming soon
+.... The rest is coming after we are finished with the collage project
 
 
 
