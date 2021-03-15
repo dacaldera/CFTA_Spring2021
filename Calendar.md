@@ -152,18 +152,15 @@ void draw(){
 * More for loop practice
 * PushMatrix, popMatrix and transformations practice
 
-## 2.4 
-* While() loops
-* nested for loops
-
-## 2.5
+## [2.4](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/2_4.md) 
 * custom functions
 * GUI buttons
 
+## [2.5](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/2_5.md)
+* Collage Project Demo
 
-***
-
-## Project 2 Collage
+> ## Homework Assignment
+> 
 > Homework for Collage Project
 > 
 > Make a sketch of a collage idea. You many use pencil and paper, or you may use photoshop. 
