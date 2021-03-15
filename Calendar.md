@@ -141,15 +141,15 @@ void draw(){
 >
 > * Assignment: Pick one of the three code sketches that we coverend in class, dig some pictures up from the internet and plug them into the sketch, and explore.
 
-## 2.2
+## [2.2](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/2_2.md)
+* For loops
 * Transformations
 * rotations
 * PushMatrix, popMatrix
-* For loops
 
-## 2.3
-* More for loop practice
+## [2.3](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/2_3.md)
 * while loops
+* More for loop practice
 * PushMatrix, popMatrix and transformations practice
 
 ## 2.4 
