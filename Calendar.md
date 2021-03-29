@@ -173,8 +173,28 @@ void draw(){
 
 
 # Module 3
-.... The rest is coming after we are finished with the collage project
+## [3.1](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/3_1.md)
+* Collage Projects are Due!
+* What is Javascipt? The language of the web
+* What is p5.js? a library that runs on javascript
+* transitioning from a Processing sketch to a p5.js sketch
+* Custom Functions
 
+> ## Homework Assignment
+> 
+>Read Chapter 9 on Functions in Make: Getting Started With p5.js
+>
+>Pdf: [Make: book](http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf)
+>
+>Do the excersizes in the functions chapter using an online code editor, either openProcessing, or editor.p5js.org (you may have to create a free account)
+>
+>Link: [p5.js Editor](https://editor.p5js.org/)
+>
+>Link: [OpenProcessing](https://openprocessing.org/)
+>
+>Watch this Daniel Shiffman Video about the `let` variable declaration
+>
+>Video: [Difference between Var and Let when declaring variables in javascript](https://dev.tube/video/q8SHaDQdul0)
 
 
 
