@@ -196,6 +196,16 @@ void draw(){
 >
 >Video: [Difference between Var and Let when declaring variables in javascript](https://dev.tube/video/q8SHaDQdul0)
 
+##[3.2]()
 
+> ## Homework Assignment
+>
+> Read this article and follow along with the code presented to create a recursive tree sketch. Explore the code and try to make it your own.  
+>
+> https://medium.com/@pasquini/lets-build-a-recursive-tree-with-p5js-8d6d2017e0cb
+> 
+> Watch this Daniel Shiffman video for another take on recursive trees
+> 
+> Video: [Recursive Trees](https://www.youtube.com/watch?v=0jjeOYMjmDU)
 
 
