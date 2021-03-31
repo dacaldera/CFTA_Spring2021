@@ -196,7 +196,13 @@ void draw(){
 >
 >Video: [Difference between Var and Let when declaring variables in javascript](https://dev.tube/video/q8SHaDQdul0)
 
-##[3.2]()
+## [3.2](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/3_2.md)
+* Review homework
+* Review custom functions
+* more info on function return values
+* What is recursion?
+* Recursive circles
+* Sierpinsky Carpet 
 
 > ## Homework Assignment
 >
