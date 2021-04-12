@@ -251,7 +251,7 @@ void draw(){
 >Have a look at the code for this one (made by me) [Chickens](https://openprocessing.org/sketch/1083358)
 >
 
-## [3.5]()
+## [3.5](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/3_5.md)
 * Conversational discussion about data sources, api, and the sort
 * Introduced HTML as a markup language
 * Looked at the basics of CSS
