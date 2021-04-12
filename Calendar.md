@@ -250,3 +250,18 @@ void draw(){
 > 
 >Have a look at the code for this one (made by me) [Chickens](https://openprocessing.org/sketch/1083358)
 >
+
+## [3.5]()
+* Conversational discussion about data sources, api, and the sort
+* Introduced HTML as a markup language
+* Looked at the basics of CSS
+
+> Homework
+> 
+> Find an artist from [this list of digital artists](https://www.courses.tegabrain.com/cc18/artists/), whos work speaks to you. The artist should primarily use the digital medium to create code-based artwork. 
+>
+> Select a maximum of 3 images of their work, and introduce them to the us. Describe what the artist does in a few sentences.
+> 
+> Watch this video [This Video](https://www.youtube.com/watch?v=URSH0QpxKo8) about linking p5.js to the html page. 
+> 
+
