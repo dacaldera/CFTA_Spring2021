@@ -214,4 +214,39 @@ void draw(){
 > 
 > Video: [Recursive Trees](https://www.youtube.com/watch?v=0jjeOYMjmDU)
 
+## [3.3](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/3_3.md)
+* Learned about what classes and objects are
+* in-class demo of objects and classes, using the cookie example
 
+> # Assignments and HomeWork
+> 
+> Read Chapter 10 and 11 in Make: P5.js book
+>
+> Type out any examples or excersizes that you encouter
+>
+> Watch this video by Daniel Schiffman on Classes and objects. [This Video](https://www.youtube.com/watch?v=T-HGdc8L-7w)
+> 
+
+## [3.4](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/3_4.md)
+* In-class objects and classes practice
+* Working on making a game with a spaceship, rockets, and aliens
+
+> ## Homework: 
+>
+>Follow this tutorial series on Space Invaders. There are 4 parts:
+>
+>* Space Invaders: [part 1](https://www.youtube.com/watch?v=FX-u9xtZhLA)
+>
+>* Space Invaders: [part 2](https://www.youtube.com/watch?v=5-wkZ4FZacE)
+>
+>* Space Invaders: [part 3](https://www.youtube.com/watch?v=lK8otXsChSU)
+>
+>* Space Invaders: [part 4](https://www.youtube.com/watch?v=exkKPEfkip8)
+>
+>
+>Read Chaper 12 on Data in P5.js Make book
+>
+> Find a code sketch by somebody else in Open Processing that uses classes and objects, and share it with us.
+> 
+>Have a look at the code for this one (made by me) [Chickens](https://openprocessing.org/sketch/1083358)
+>
