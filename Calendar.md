@@ -265,7 +265,7 @@ void draw(){
 > Watch this video [This Video](https://www.youtube.com/watch?v=URSH0QpxKo8) about linking p5.js to the html page. 
 > 
 
-## [4.1](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/3_5.md)
+## [4.1](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Modules/4_1.md)
 * The final project was introduced today. Please see the project sheet here: [Proposal Project Info Sheet](https://github.com/dacaldera/CFTA_Spring2021/blob/main/Course%20Materials/Project%20Sheets/Project_3_Final.md)
 * We looked for loops, especially nested for loops, in depth
 * We did an in class demo showing nested for loops and created a graphical pattern
