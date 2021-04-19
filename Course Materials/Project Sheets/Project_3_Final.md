@@ -2,4 +2,4 @@ In a time when art galleries are doing digital, interactive media displays such 
 
 
 
-![Art Gallery](integrate-expo.com/wp-content/uploads/2014/06/Sony-installation-1024x5751.jpg)
+![Art Gallery](https://integrate-expo.com/wp-content/uploads/2014/06/Sony-installation-1024x5751.jpg)
