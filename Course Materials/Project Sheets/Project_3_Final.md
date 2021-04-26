@@ -12,3 +12,48 @@ The project will be submitted on the last day of class
 ![Art Gallery](https://integrate-expo.com/wp-content/uploads/2014/06/Sony-installation-1024x5751.jpg)
 
 
+## HTML Starter Code
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/addons/p5.sound.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta charset="utf-8" />
+
+</head>
+
+<body>
+
+  <h1>Title of Project</h1>
+
+  <p>description of my project goes here...</p>
+
+  <h2>Pseudo-code</h2>
+  <ul>
+    <li>pseudo-code item</li>
+    <li>pseudo-code item</li>
+    <li>pseudo-code item</li>
+    <li>pseudo-code item</li>
+    <li>pseudo-code item</li>
+    <li>pseudo-code item</li>
+    <li>pseudo-code item</li>
+
+  </ul>
+
+
+  <img width="600" src="Shoe.png" />
+  <img width="600" src="BallAndPins.png" />
+  <img width="600" src="Soap Packaging Ideas.jpg" />
+
+
+
+
+
+<!--       <script src="sketch.js"></script> -->
+</body>
+
+</html>
+```
