@@ -57,3 +57,42 @@ The project will be submitted on the last day of class
 
 </html>
 ```
+
+## Starter CSS for the above HTML
+```
+@import url('https://fonts.googleapis.com/css2?family=Cousine&display=swap');
+
+html, body {
+  background-color: #ffffff;
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/274/507/small/White_Background_1_RF_RMPL-01.jpg");
+  margin: 0;
+  padding: 0;
+  font-family: 'Cousine', monospace;
+}
+
+h1, p, h2, ul {
+ text-align: center; 
+}
+
+ul {
+ list-style-type: none; 
+  padding: 0px;
+}
+
+
+
+img {
+  background-color: #fff;
+ display: block;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+/*   border: 1px solid #000; */
+  box-shadow: 10px 5px 5px #ccc;
+}
+
+canvas {
+  display: block;
+}
+```
